@@ -545,10 +545,3 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     NoCutoutOverlay
-
-# Override Apps
-PRODUCT_PACKAGES += \
-    SimpleGalleryPro \
-    SimpleCalculator \
-    bromite-webview \
-    DuckDuckGo
