@@ -1034,7 +1034,6 @@ vendor/lib/lib_denoiser3.so
 vendor/lib/libGPQTEEC_vendor.so
 vendor/lib/libadiertac.so
 vendor/lib/libwfdaac_vendor.so
--vendor/lib/com.qualcomm.qti.bluetooth_audio@1.0.so
 vendor/lib/libssc_default_listener.so
 vendor/lib/sensors.ssc.so
 vendor/lib/libOmxApeDec.so
